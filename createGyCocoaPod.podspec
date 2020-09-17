@@ -7,8 +7,8 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'createGyCocoaPod'
-  s.version          = '0.2.0'
-  s.summary          = 'gy test cocoapods使用'
+  s.version          = '0.3.0'
+  s.summary          = 'gy test cocoapods使用 第三版本'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
