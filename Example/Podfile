@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'createGyCocoaPod_Example' do
+  pod 'createGyCocoaPod', :path => '../'
+
+  target 'createGyCocoaPod_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
