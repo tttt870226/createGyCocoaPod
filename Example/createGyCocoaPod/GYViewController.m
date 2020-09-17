@@ -7,6 +7,7 @@
 //
 
 #import "GYViewController.h"
+#import "TestView.h"
 
 @interface GYViewController ()
 
@@ -18,6 +19,9 @@
 {
     [super viewDidLoad];
     self.view.backgroundColor = [UIColor greenColor];
+    TestView* test = [[TestView alloc]init];
+    NSString* name = [test  getName];
+    NSLog(@"===%@",name);
     
 	// Do any additional setup after loading the view, typically from a nib.
 }
