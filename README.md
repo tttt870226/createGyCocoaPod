@@ -1,4 +1,5 @@
 # createGyCocoaPod
+<<<<<<< HEAD
 
 [![CI Status](https://img.shields.io/travis/tttt870226/createGyCocoaPod.svg?style=flat)](https://travis-ci.org/tttt870226/createGyCocoaPod)
 [![Version](https://img.shields.io/cocoapods/v/createGyCocoaPod.svg?style=flat)](https://cocoapods.org/pods/createGyCocoaPod)
@@ -27,3 +28,6 @@ tttt870226, tttt870226@163.com
 ## License
 
 createGyCocoaPod is available under the MIT license. See the LICENSE file for more info.
+=======
+测试pod
+>>>>>>> 91f4f9c62010609909fc3bd395cfc3c5546a2578
