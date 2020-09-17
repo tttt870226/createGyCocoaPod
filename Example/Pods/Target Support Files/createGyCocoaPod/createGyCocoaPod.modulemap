@@ -1,0 +1,6 @@
+framework module createGyCocoaPod {
+  umbrella header "createGyCocoaPod-umbrella.h"
+
+  export *
+  module * { export * }
+}
